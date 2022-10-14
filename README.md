@@ -1,6 +1,6 @@
 # first_deep_IA
 
-
+<p>
      ___       ___                  ___          ___          ___          ___          ___     
     /\  \     /\__\                /\__\        /\  \        /\  \        /\__\        /\__\    
    /::\  \   /:/ _/_       ___    /:/  /        \:\  \      /::\  \      /:/ _/_      /:/ _/_   
@@ -13,7 +13,7 @@
    \:\__\     /:/  /       \:\__\ \::/  /      \:\__\       \::/  /       /:/  /      \::/  /   
     \/__/     \/__/         \/__/  \/__/        \/__/        \/__/        \/__/        \/__/ 
 
-
+</p>
 
 <h4 style='color:red;'>Here is a simple code I made quickly to start my learning about neural networks.
 I don't know if this will help you but it's there.</h4>
