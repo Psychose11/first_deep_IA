@@ -1,11 +1,12 @@
 #coding=utf-8
 
-
+#importation de la biblio numpy
 import numpy as np
 
-x_entre=np.array(([60,1.60,35],[70,1.78,40],[50,1.51,36],[52,1.56,34],[40,1.48,41],[70,1.71,42],[54,1.60,37],[80,1.83,43],[70,1.82,44]),dtype=float)
-y=np.array(([1],[1],[0],[0],[0],[1],[0],[1]),dtype=float)
 
+x_entre=np.array(([60,1.60,35],[70,1.78,40],[50,1.51,36],[52,1.56,34],[40,1.48,41],[70,1.71,42],[54,1.60,37],[80,1.83,43],[70,1.82,44]),dtype=float)
+#tableau de la matrice de donnée:x_entre
+y=np.array(([1],[1],[0],[0],[0],[1],[0],[1]),dtype=float) 
 
 x_entre=x_entre/np.amax(x_entre,axis=0)
 
